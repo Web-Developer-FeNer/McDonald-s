@@ -1,0 +1,412 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/72b/8826_BigMac_BB_combo_BigFries_1500x1500_min.png",
+            "name": "Биг Мак Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 299,
+            "category": 1
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/2a7/8828_BigTasty_combo_BigFries_1500x1500_min.png",
+            "name": "Биг Тейсти Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 399,
+            "category": 1
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/343/8870_ChickenPremier_BB_combo_BigFries_1500x1500_min.png",
+            "name": "Чикен Премьер Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 329,
+            "category": 1
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/7cf/8852_Ceasar_Roll_new_combo_BigFries_1500x1500_min.png",
+            "name": "Цезарь Ролл Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 299,
+            "category": 1
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/0f8/8998_BT_roll_combo_BigFries_1500x1500_min.png",
+            "name": "Биг Тейсти Ролл Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 369,
+            "category": 1
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/d1f/8854_ShrimpRoll_combo_BigFries_1500x1500_min.png",
+            "name": "Фиш Ролл Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 389,
+            "category": 1
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/dfa/0000_BigMac_BB_1500x1500-_4_-_1_.png",
+            "name": "Биг Мак",
+            "types": [
+                1
+            ],
+            "price": 199,
+            "category": 2
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/4bb/2004_BigTasty_1500x1500_min.png",
+            "name": "Биг Тейсти",
+            "types": [
+                1
+            ],
+            "price": 299,
+            "category": 2
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/8b1/0000_ChickenPremier_country_1500x1500_min.png",
+            "name": "Чикен Премьер",
+            "types": [
+                1
+            ],
+            "price": 249,
+            "category": 2
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/ef5/2086_Ceasar_Roll_new_1500x1500_min.png",
+            "name": "Цезарь Ролл",
+            "types": [
+                1
+            ],
+            "price": 209,
+            "category": 3
+        },
+        {
+            "id": 10,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/698851947-big-tejsti-roll-600x600.jpg",
+            "name": "Биг Тейсти Ролл",
+            "types": [
+                1
+            ],
+            "price": 269,
+            "category": 3
+        },
+        {
+            "id": 11,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/3c4/2097_ShrimpRoll_1500x1500-_3_-_1_.png",
+            "name": "Фиш Ролл",
+            "types": [
+                1
+            ],
+            "price": 299,
+            "category": 3
+        },
+        {
+            "id": 12,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/47d/3030_Fries_large_1500x1500_min_1_.png",
+            "name": "Картошка фри",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 59,
+            "category": 4
+        },
+        {
+            "id": 13,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/905/PotatoWedges_min.png",
+            "name": "Картошка по-деревенски",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 89,
+            "category": 4
+        },
+        {
+            "id": 14,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/b97/2352_Nuggets9_1500x1500_min.png",
+            "name": "Чик Макнагетс",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 99,
+            "category": 4
+        },
+        {
+            "id": 15,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/333973051-koka-kola-0-4l-600x600.jpg",
+            "name": "Кока-кола",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 69,
+            "category": 5
+        },
+        {
+            "id": 16,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/950632087-sprajt-0-4l-600x600.jpg",
+            "name": "Спрайт",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 69,
+            "category": 5
+        },
+        {
+            "id": 17,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/411939992-fanta-0-4l-600x600.jpg",
+            "name": "Фанта",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 69,
+            "category": 5
+        },
+        {
+            "id": 0,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/72b/8826_BigMac_BB_combo_BigFries_1500x1500_min.png",
+            "name": "Биг Мак Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 299,
+            "category": 0
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/2a7/8828_BigTasty_combo_BigFries_1500x1500_min.png",
+            "name": "Биг Тейсти Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 399,
+            "category": 0
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/343/8870_ChickenPremier_BB_combo_BigFries_1500x1500_min.png",
+            "name": "Чикен Премьер Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 329,
+            "category": 0
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/7cf/8852_Ceasar_Roll_new_combo_BigFries_1500x1500_min.png",
+            "name": "Цезарь Ролл Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 299,
+            "category": 0
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/0f8/8998_BT_roll_combo_BigFries_1500x1500_min.png",
+            "name": "Биг Тейсти Ролл Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 369,
+            "category": 0
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/d1f/8854_ShrimpRoll_combo_BigFries_1500x1500_min.png",
+            "name": "Фиш Ролл Комбо",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 389,
+            "category": 0
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/dfa/0000_BigMac_BB_1500x1500-_4_-_1_.png",
+            "name": "Биг Мак",
+            "types": [
+                1
+            ],
+            "price": 199,
+            "category": 0
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/4bb/2004_BigTasty_1500x1500_min.png",
+            "name": "Биг Тейсти",
+            "types": [
+                1
+            ],
+            "price": 299,
+            "category": 0
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/8b1/0000_ChickenPremier_country_1500x1500_min.png",
+            "name": "Чикен Премьер",
+            "types": [
+                1
+            ],
+            "price": 249,
+            "category": 0
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/ef5/2086_Ceasar_Roll_new_1500x1500_min.png",
+            "name": "Цезарь Ролл",
+            "types": [
+                1
+            ],
+            "price": 209,
+            "category": 0
+        },
+        {
+            "id": 10,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/698851947-big-tejsti-roll-600x600.jpg",
+            "name": "Биг Тейсти Ролл",
+            "types": [
+                1
+            ],
+            "price": 269,
+            "category": 0
+        },
+        {
+            "id": 11,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/3c4/2097_ShrimpRoll_1500x1500-_3_-_1_.png",
+            "name": "Фиш Ролл",
+            "types": [
+                1
+            ],
+            "price": 299,
+            "category": 0
+        },
+        {
+            "id": 12,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/47d/3030_Fries_large_1500x1500_min_1_.png",
+            "name": "Картошка фри",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 59,
+            "category": 0
+        },
+        {
+            "id": 13,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/905/PotatoWedges_min.png",
+            "name": "Картошка по-деревенски",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 89,
+            "category": 0
+        },
+        {
+            "id": 14,
+            "imageUrl": "https://mcdonalds.ru/resize/-x1020/upload/iblock/b97/2352_Nuggets9_1500x1500_min.png",
+            "name": "Чик Макнагетс",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 99,
+            "category": 0
+        },
+        {
+            "id": 15,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/333973051-koka-kola-0-4l-600x600.jpg",
+            "name": "Кока-кола",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 69,
+            "category": 0
+        },
+        {
+            "id": 16,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/950632087-sprajt-0-4l-600x600.jpg",
+            "name": "Спрайт",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 69,
+            "category": 0
+        },
+        {
+            "id": 17,
+            "imageUrl": "https://mcdonaldsmenu.ru/image/cache/catalog/photo/411939992-fanta-0-4l-600x600.jpg",
+            "name": "Фанта",
+            "types": [
+                0,
+                1,
+                2
+            ],
+            "price": 69,
+            "category": 0
+        }
+    ]
+}
